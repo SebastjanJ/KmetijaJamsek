@@ -6,5 +6,5 @@ zaženite xammp in odprite phpmyadmin
 ustvarite novo podatkovno bazo ecommerce
 odprite tab uvozi(import) in tam izberite datoteko ecommerce.sql iz prej razširjene mape
 Odprite ukazni poziv(cmd) in tam s komando cd odprite razširjeno mapo
-php artisan update
+composer update
 php artisan serve
