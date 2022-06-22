@@ -126,7 +126,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <div class="container">
 
         <div class="section-heading">
-            <h2>Kontakt</h2>
+            
         </div>
 
 
